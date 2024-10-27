@@ -1,6 +1,6 @@
 # ChatAI Consultant
 
-A web-based chat assistant powered by OpenAI's API. This project lets you set up a custom chat assistant using data tailored to a specific website or topic.
+A web-based chat assistant powered by OpenAI's API. This project automatically scans the web page and acts as an assistant based on it.
 
 ## Prerequisites
 
